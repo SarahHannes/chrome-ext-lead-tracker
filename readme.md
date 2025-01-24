@@ -19,7 +19,8 @@ See it below in action!
 5. Add the extension to the chrome profile by clicking on the 'puzzle' icon
 ![Step 5 of quick setup locally](assets/image-2.png)
 
+#### Here's the <a href="https://sarahhannes.github.io/chrome-ext-lead-tracker/" target="_blank">LINK</a> to play with it right now in your browser!
 
-## Reference:
+## Credits:
 - The course: https://v1.scrimba.com/learn/learnjavascript
 - The icon: https://fontawesome.com/icons/magnifying-glass-dollar?f=classic&s=solid
